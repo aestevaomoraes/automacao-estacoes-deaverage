@@ -40,7 +40,7 @@ Fluxo:
 ```text
 Base_Status_Estacoes_XXXXX.xlsb
 ↓
-estacoes_de_avarage.xlsx
+estacoes_de_XXXXX.xlsx
 ```
 
 Objetivo:
