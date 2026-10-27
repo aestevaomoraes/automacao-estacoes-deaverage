@@ -1,0 +1,6 @@
+{
+    "arquivo_xlsb": "<CAMINHO_XLSB>",
+    "arquivo_xlsx": "<CAMINHO_XLSX>",
+    "arquivo_etl": "<CAMINHO_ETL>",
+    "arquivo_log": "<CAMINHO_LOG>"
+}

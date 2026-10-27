@@ -1,0 +1,22 @@
+# Ambiente virtual
+.venv/
+
+# Configuração local
+config/config.json
+
+# Logs
+logs/*.csv
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Imagens temporárias
+image.png
