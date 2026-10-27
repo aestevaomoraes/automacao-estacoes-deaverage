@@ -34,7 +34,7 @@ Base_Status_Estacoes_DeAverage.xlsb
 ↓
 Conversão XLSB → XLSX
 ↓
-estacoes_de_avarage.xlsx
+estacoes_de_XXXX.xlsx
 ↓
 Atualização automática do ETL
 ↓
