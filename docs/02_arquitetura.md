@@ -37,7 +37,7 @@ converter_xlsb_para_xlsx.py
 
 ↓
 
-estacoes_de_avarage.xlsx
+estacoes_de_XXXXX.xlsx
 
 ↓
 
