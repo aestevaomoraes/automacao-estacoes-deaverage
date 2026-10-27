@@ -101,7 +101,7 @@ Aproximadamente:
 
 Ao final da execução:
 
-✅ estacoes_de_avarage.xlsx atualizado
+✅ estacoes_de_XXXX.xlsx atualizado
 
 ✅ ETL_Migrar_Circuitos_Estacoes.xlsx atualizado
 
