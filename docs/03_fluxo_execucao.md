@@ -38,7 +38,7 @@ converter_xlsb_para_xlsx.py
 Fluxo:
 
 ```text
-Base_Status_Estacoes_DeAverage.xlsb
+Base_Status_Estacoes_XXXXX.xlsb
 ↓
 estacoes_de_avarage.xlsx
 ```
