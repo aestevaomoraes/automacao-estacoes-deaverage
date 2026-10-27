@@ -30,7 +30,7 @@ Automatizar a atualização de uma base operacional utilizada em processos anal�
 ```text
 SharePoint
 ↓
-Base_Status_Estacoes_DeAverage.xlsb
+Base_Status_Estacoes_XXXX.xlsb
 ↓
 Conversão XLSB → XLSX
 ↓
@@ -52,7 +52,7 @@ Power Automate
 ↓
 Último arquivo XLSB
 ↓
-Base_Status_Estacoes_DeAverage.xlsb
+Base_Status_Estacoes_XXXXX.xlsb
 
 ↓
 
@@ -119,7 +119,7 @@ execucao.csv
 ## Estrutura do Projeto
 
 ```text
-Automacao_Estacoes_DeAverage
+Automacao_Estacoes_XXXXe
 
 ├── config
 ├── docs
